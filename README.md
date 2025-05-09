@@ -48,7 +48,7 @@ I've been learning web development for over 4 years. After graduating, I discove
 
 **Top Repositories**
 
-<div align="center">
+<div >
   <a href="https://github.com/ApisitFuse/AnimeBucketList">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ApisitFuse&repo=AnimeBucketList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="AnimeBucketList repo pin" />
   </a>
